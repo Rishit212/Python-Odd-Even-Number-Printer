@@ -1,2 +1,2 @@
 # Python-Odd-Even-Number-Printer
-Prints odd and even numbers in ascending order until it reaches a given break point
+It takes a number and print all odd and even numbers in ascending order upto that number.
